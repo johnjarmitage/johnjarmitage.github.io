@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://johnjarmitage.github.io/sitemap.xml
